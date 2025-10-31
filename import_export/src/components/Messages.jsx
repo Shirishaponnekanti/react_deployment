@@ -2,7 +2,7 @@ import {name} from "../App"
 
 
 export function func (){
-    return 9+1
+    return 9+100
 }
 
 
